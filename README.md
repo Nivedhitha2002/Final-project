@@ -1,7 +1,5 @@
 # Enhancing Lane Detection in Challenging Weather Condition
 
-Enhancing Lane Detection
-
 Description:
 Developed a robust lane detection system using OpenCV, capable of accurately identifying lane markings in adverse weather conditions. Improves reliability and safety of Advanced Driver-Assistance Systems (ADAS).
 
